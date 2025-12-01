@@ -1,9 +1,17 @@
-#MAKE-YOUR-GAME
+# BREAKOUT - GAME
 
-Il faut utiliser les touches : 
--> pour diriger la raquette vers la droite
-<- pour diriger la requette vers la gauche
+Jeu de casse brique
 
-'R' ou 'r' pour reprendre le jeu
+## 🛠️ Technologies utilisées
+- HTML / CSS / JavaScript
 
-'ESPACE' ou ' ' pour mettre le jeu en pause ou continuer le jeu
+## ⚙️ Installation
+```bash
+# Clone le projet
+git clone git@github.com:koffi590/breakout-game.git
+
+# Entre dans le dossier
+cd breakout-game
+
+# Ajoute live server comme extension sur VS Code puis lance index.html avec live server
+
